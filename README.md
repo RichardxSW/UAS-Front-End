@@ -21,10 +21,5 @@ This is a repository for the final project of a Front-End course. The project sh
 git clone https://github.com/RichardxSW/UAS-Front-End.git
 ```
 
-### 2. Navigate to the project directory
-```bash
-cd UAS-Front-End
-```
-
-### 3. Open the website
+### 2. Open the website
 Open index.html in a web browser to view the website or start the live server
